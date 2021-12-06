@@ -66,4 +66,28 @@ Message=An error occurred while creating the route with name 'default' and patte
 6:15 Add the / in  pattern: "{area:Customer}/{controller=Home}/{action=Index}/{id?}"); and some change happen, the app is run but still got the error ..
 
 
+3/12/2021 
+
+
+10:00 start to solve the error : 
+  the new error: Severity	Code	Description	Project	File	Line	Suppression State
+Error	CS0246	The type or namespace name 'ErrorViewModel' could not be found (are you missing a using directive or an assembly reference?)	SanketBookStore	C:\Users\W0776059\Source\Repos\Assignment2-SanketBookStore\SanketBookStore\Controllers\HomeController.cs	34	Active 
+
+10:20  still stuck in the same error..
+
+10:30 ask friend to help to solve the error but unfortunately he couldn't solve the error..
+
+10:50 Search on the google to solve it but still have face same error.. 
+
+error.... error....error......  stop working.... 
+
+
+
+
+
+4/12/2021 
+
+11:00 today start to solve the error. hopefully not get any error..
+
+11:10 it's my bad again face the same error which i got in the 
 
