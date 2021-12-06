@@ -12,6 +12,14 @@ steps for the program :
 
 
  Start the whole project again :: 
+ 
+ 
+29/11/2021 
+
+Start the entire new project and try to solve the previous error. Hopefully, all the error will solve and I can successfully run the project. 
+
+05:00 start the entire new project. Read the whole pptx of the assignment 1 then start the new one. 
+
 
 30/11/2021
 
@@ -43,12 +51,12 @@ steps for the program :
 10:00  ::  Error CS0433 The type 'IdentityUser' exists in both 'Identity.Stores, Version=1.2.7.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' and 'Microsoft.Extensions.Identity.Stores, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' SanketBookStore C:\Users\W0776059\source\repos\SanketBookStore\SanketBookStore\SanketBookStore\Startup.cs 36 Active
 10:30  :: Severity Code Description Project File Line Suppression State
 Warning Unexpected comma after the last object member. SanketBookStore C:\Users\W0776059\source\repos\SanketBookStore\SanketBookStore\SanketBookStore\Properties\launchSettings.json 6
-11:30  :: Got the error and could not run the app. the error is :
-Severity Code Description Project File Line Suppression State
-11:50  :: Error CS0433 The type 'IdentityUser' exists in both 'Identity.Stores, Version=1.2.7.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' and 'Microsoft.Extensions.Identity.Stores, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60' SanketBookStore C:\Users\W0776059\source\repos\SanketBookStore\SanketBookStore\SanketBookStore\Startup.cs 36 Active
 
-12:20  ::   How i resolved: removed Identity.Store, made sure the Microsoft.Extensions.Identity.Stores was present in the project(s).
-Conclusion - duplication resolved...
+11:20  ::   add the project
+
+11:30  :: rename the models folder to ViewModels
+
+
 
 
 5:00 :: Got the Error ::
